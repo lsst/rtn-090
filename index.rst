@@ -120,3 +120,44 @@ However, there may be cases where the filter is improved with community input (e
 Cases where the filter is unavoidably changed or deprecated will be advertised and documented for users.
 
 To start, during commissioning the initial set of community filters will be limited to ~5 to allow room to grow without deactivating community filters unless necessary.
+
+
+Calls for community input
+=========================
+
+The initial call for input to the community filters will invite everyone, as individuals or as teams, to contribute a short statement that either proposes a filter (in words or in code) or describes a science case that a filter should meet.
+
+All contributions will be open and publicly viewable, so that others may see, upvote, and comment on them.
+For this purpose, the Rubin Community Forum will be used in a similar way as it was used for the photometric redshift letters of recommendation process (`DMTN-049 <https://dmtn-049.lsst.io/>`_). 
+
+The Rubin Community Science team (CST) will review and consolidate the input into the first ~5 community filters.
+The CST will publicly post a summary of the input and descriptions of the community filters.
+The community, the Science Advisory Committee, and the Users Committee will be invited to comment and refine the first ~5 filters before the CST implements them.
+
+It is anticipated that a second call for input to the community filters would be repeated after one year, to define the next 5-10 community filters (and solicit improvements to the existing filters).
+The timescale for future calls remains to be determined.
+
+
+Appendix A
+==========
+
+Relevant references to community filters in Rubin requirements documentation.
+
+LSST Science Requirements Document (`LPM-17 <https://docushare.lsst.org/docushare/dsweb/Get/LPM-17>`_)
+
+* "The users will have an option of a query-like pre-filtering of this data stream in order to select likely candidates for specific transient type ... Several pre-defined filters optimized for traditionally popular transients, such as supernovae and microlensed sources, will also be available, as well as the ability to add new pre-defined filters as the survey continues." (Section 3.5)
+
+LSST System Requirements document (`LSE-29 <https://docushare.lsst.org/docushare/dsweb/Get/LSE-29>`_)
+
+* "Pre-defined filters optimized for traditionally popular transients shall be made available. It shall be possible for the project to add new pre-defined filters as the survey progresses ... The list of pre-defined filters, by way of example, should include ones for supernovae and microlensed sources." (LSR-REQ-0026)
+
+Data Management System (DMS) Requirements document (`LSE-61 <https://docushare.lsst.org/docushare/dsweb/Get/LSE-61>`_)
+
+* "A basic, limited capacity, alert filtering service shall be provided that can be given user defined filters to reduce the alert stream to manageable levels." (DMS-REQ-0342)
+
+* "Users of the LSST Alert Filtering Service shall be able to use a predefined set of simple filters." (DMS-REQ-0348)
+
+* "The LSST alert filtering service shall support numBrokerUsers (20) simultaneous users with each user allocated a bandwidth capable of receiving the equivalent of ``numBrokerAlerts`` (100) alerts per visit ... The constraint on number of alerts is specified for the full VOEvent alert content, but could also be satisfied by all alerts being received with minimal alert content." (DMS-REQ-0343)
+
+Although not a requirements document, Section 3.5.2 of Version 3.9 of the Data Products Definitions Document (`LSE-163 <https://lse-163.lsst.io/>`_) details how users would receive and filter alerts.
+The concept of community filters, as described in this tech note, is not represented in the DPDD and this document supersedes the DPDD on this topic.
