@@ -103,7 +103,7 @@ Filters that pass too many alerts do not sufficiently inform follow-up prioritiz
 * Maximum number of passing alerts per visit: 100 alerts
 
 Machine-learned models and Other Third-Party Software
-----------------------
+-----------------------------------------------------
 
 Community filters can be based on a trained ML model. However, any community filters based on machine learning models would need to be trained and validated by volunteer members of the science community
 
