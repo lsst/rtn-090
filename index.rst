@@ -102,7 +102,7 @@ Filters that pass too many alerts do not sufficiently inform follow-up prioritiz
 * Average number of passing alerts per visit: 20 alerts
 * Maximum number of passing alerts per visit: 100 alerts
 
-Machine-learned models
+Machine-learned models and Other Third-Party Software
 ----------------------
 
 Community filters can be based on a trained ML model.
