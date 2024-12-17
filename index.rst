@@ -14,7 +14,7 @@ Requirements on the Rubin system specify that users will have access to alerts v
 These community filters are intended to provide a low barrier-to-entry starting point for community members wanting to start with alert science, and as such should cover a range of Rubin alert use cases.
 The Rubin Community Science team (CST) will take input from the community to define, implement, and maintain the community filters.
 The existence of community filters served by the CST does not preclude users from developing their own customized filters.
-The ANTARES alert broker provides the functionality for user-defined filters, and the ANTARES team has agreed to host these community filters, so that Rubin Operations can meet these requirements without constructing an Alert Filtering Service (`DMTN-226 <https://dmtn-226.lsst.io/>`_).
+The ANTARES alert broker provides functionality for user-defined filters.  Rubin is partnering with the ANTARES broker to host its community filters so as to meet requirements without constructing a bespoke Alert Filtering Service (`DMTN-226 <https://dmtn-226.lsst.io/>`_).
 
 Scope
 -----
