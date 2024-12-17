@@ -87,7 +87,7 @@ Processing limits
 
 The computational resources will be shared across all community filters, and thus what is available for a given filter will depend on the number of filters, their throughput, and the actual number of alerts per visit.
 
-The LSST observing strategy will make one visit every ~30 seconds.
+The LSST observing strategy will make a 30 second image every 34 seconds, including readout.
 Any filter which takes, on average during the night, longer than 30 seconds per visit (~10,000 alerts) to process alerts from one visit will fall behind.
 
 * Maximum latency per visit: 30 seconds (average over the night)
