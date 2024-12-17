@@ -105,7 +105,7 @@ Filters that pass too many alerts do not sufficiently inform follow-up prioritiz
 Machine-learned models and Other Third-Party Software
 ----------------------
 
-Community filters can be based on a trained ML model.
+Community filters can be based on a trained ML model. However, any community filters based on machine learning models would need to be trained and validated by volunteer members of the science community
 
 However, any community filters based on machine learning models would need to be trained and validated by volunteer members of the science community, training is beyond the scope of the Rubin CST.
 
