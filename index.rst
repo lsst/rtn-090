@@ -29,7 +29,7 @@ These community filters will:
 
 * be designed to prevent redundancy among user-defined filters,
 * together as a set, serve a broad range of science interests,
-* individually, each meet a well-defined science goal,
+* each meet at least one well-defined science goal,
 * significantly down-select the number of alerts per visit,
 * be subject to technical constraints, and
 * be maintained throughout Rubin operations.
