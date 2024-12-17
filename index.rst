@@ -97,7 +97,7 @@ Follow-up feasibility
 
 The LSST Alerts: Key Numbers document (`DMTN-102 <https://dmtn-102.lsst.io/>`_) document predicts an average of 10,000 alert-triggering astrophysical sources per visit, with a maximum of >30,000 in Galactic fields.
 The community filters should significantly sub-select the number of alerts per visit.
-Filters that pass too many alerts do not sufficiently inform follow-up prioritization, which is the point of the filter.
+Filters that pass too many alerts do not sufficiently inform follow-up prioritization, which is the point of the filter. The following provides suggested values for the number of passing alerts (note: these are not constraints from ANTARES):
 
 * Average number of passing alerts per visit: 20 alerts
 * Maximum number of passing alerts per visit: 100 alerts
