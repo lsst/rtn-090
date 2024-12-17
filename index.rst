@@ -107,7 +107,7 @@ Machine-learned models and Other Third-Party Software
 
 Community filters can be based on a trained ML model. However, any community filters based on machine learning models would need to be trained and validated by volunteer members of the science community
 
-However, any community filters based on machine learning models would need to be trained and validated by volunteer members of the science community, training is beyond the scope of the Rubin CST.
+The use of third-party software packages in community filters will be evaluated, and proposed filters that rely on potentially unstable or unmaintained packages will not be able to be implemented
 
 Maintenance
 -----------
