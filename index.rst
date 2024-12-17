@@ -81,7 +81,6 @@ The community filters will use only the contents of the LSST alert packet plus a
 The contents of the alert packets might evolve over Rubin Operations, thereby enabling new community filters.
 For example, the final set of time series features to be computed during Alert Production remains to be determined (`DMTN-118 <https://dmtn-118.lsst.io/>`_).
 
-Once a Rubin data release exists (DP2, DR1), the community filters will be able to query and use proprietary LSST data, such as multi-year light curves or the photo-z of potential host galaxies.
 
 Processing limits
 -----------------
