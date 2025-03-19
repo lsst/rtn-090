@@ -50,19 +50,19 @@ FY25 Q1, Oct-Dec 2024:
 FY25 Q2, Jan-Mar 2025:
 
 * prepare and advertise call input from the community
+
+FY25 Q3, Apr-Jun 2025:
+
 * review the input and draft ~5 initial community filters
 
-FY25 Q3, Apr-Jun 2025 (or when LSST alerts begin):
+FY25 Q4, Jul-Sep 2025  (or when LSST alerts begin):
 
 * implement ~5 initial community filters
 * release documentation and use-case tutorials
 
-FY25 Q4, Jul-Sep 2025:
-
-* prepare validation report and ‘lessons learned’ for the community
-
 FY26 Q1, Oct-Dec 2026:
 
+* prepare validation report and ‘lessons learned’ for the community
 * second round of community input for additional community filters
 
 
