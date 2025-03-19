@@ -59,10 +59,10 @@ FY25 Q4, Jul-Sep 2025  (or when LSST alerts begin):
 
 * implement ~5 initial community filters
 * release documentation and use-case tutorials
-* prepare validation report and ‘lessons learned’ for the community
 
 FY26 Q1, Oct-Dec 2026:
 
+* prepare validation report and ‘lessons learned’ for the community
 * second round of community input for additional community filters
 
 
